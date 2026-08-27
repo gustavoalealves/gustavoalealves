@@ -15,15 +15,15 @@
 <p align="left">
 
   <a href="https://github.com/gustavoalealves">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff" />
   </a>
 
   <a href="https://www.linkedin.com/in/gustavo-alexandre-alves-52b64b344">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2" />
   </a>
 
   <a href="mailto:g.alexandre.alves.006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335" />
   </a>
 
 </p>
@@ -47,23 +47,23 @@
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![NXC](https://img.shields.io/badge/NXC-333333?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
+![NXC](https://img.shields.io/badge/-NXC-333333?style=for-the-badge&labelColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=4479A1)
 
 ### Data & Productivity
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-ffffff?style=for-the-badge&labelColor=black&logo=notion&logoColor=ffffff)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&labelColor=black&logo=trello&logoColor=0052CC)
 
 ---
 
