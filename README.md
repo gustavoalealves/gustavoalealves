@@ -1,6 +1,6 @@
 # Gustavo Alexandre Alves 👨🏽‍💻
 
-🎓Science and Technology & Computer Science student at Federal University of ABC (UFABC).
+🎓 Science & Technology and Computer Science student at Federal University of ABC (UFABC).
 
 💻 I'm interested in software development, data and artificial intelligence.
 
