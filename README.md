@@ -1,12 +1,11 @@
 # Nice to meet you, I'm Gustavo Alexandre 👋
 
-🎓 Science & Technology and Computer Science student at UFABC.
+🎓Science and Technology & Computer Science student at Federal University of ABC (UFABC).
 
 💻 I'm interested in software development, data and artificial intelligence.
 
 🚀 Currently learning Python, Git, GitHub and expanding my knowledge through personal and academic projects.
 
-🇧🇷 Brazil
 
 ---
 
