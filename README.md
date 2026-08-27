@@ -1,4 +1,4 @@
-# Nice to meet you, I'm Gustavo Alexandre 👋
+# Gustavo Alexandre Alves 👨🏽‍💻
 
 🎓Science and Technology & Computer Science student at Federal University of ABC (UFABC).
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🤖 Technologies & Tools
 
 ### Programming Languages
 
