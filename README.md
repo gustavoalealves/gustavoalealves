@@ -48,6 +48,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)
 ![NXC](https://img.shields.io/badge/-NXC-333333?style=for-the-badge&labelColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=4479A1)
 
